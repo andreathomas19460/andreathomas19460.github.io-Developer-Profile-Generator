@@ -6,8 +6,6 @@ The command-line application dynamically generates a pdf profile from a GitHub u
 
 ## User Story
 
-Following the [common templates for user stories](https://en.wikipedia.org/wiki/User_story#Common_templates), we can frame this challenge as follows:
-
 ```
 AS A product manager
 
