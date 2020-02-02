@@ -1,0 +1,24 @@
+{
+  "name": "andreathomas19460.github.io-developer-profile-generator",
+  "version": "1.0.0",
+  "description": "The command-line application dynamically generates a pdf profile from a GitHub username.",
+  "main": "index.js",
+  "dependencies": {
+    "pdf-puppeteer": "^1.1.10",
+    "puppeteer": "^2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreathomas19460/andreathomas19460.github.io-Developer-Profile-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreathomas19460/andreathomas19460.github.io-Developer-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/andreathomas19460/andreathomas19460.github.io-Developer-Profile-Generator#readme"
+}
