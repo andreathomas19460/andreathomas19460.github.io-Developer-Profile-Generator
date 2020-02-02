@@ -19,10 +19,16 @@ SO THAT I can easily prepare reports for stakeholders
 
 ## How It Works
 
+* User runs 'npm install' for dependencies in the terminal
 * Initiates from the command 'node index.js' in the terminal
 * User is prompted for a color selection
 * User is prompted for GitHub username
 * GitHub username input generates pdf that includes info from selected username
 
+## Status 
 
+In progress...
 
+## Author
+
+Andrea Thomas
