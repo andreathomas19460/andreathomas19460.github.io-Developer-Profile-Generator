@@ -88,10 +88,8 @@ async function generatePDF(username) {
       'C:/Users/andre-vely0h2/UW-Code-Boot-Camp/Homework/HW9/andreathomas19460.github.io-Developer-Profile-Generator/index.html'
     );
     await page.emulateMediaType('screen');
-
-  
-    await page.pdf({
-      path: `${username}.pdf`,
+     await page.pdf({
+      path: `pdf/${username}.pdf`,
       format: 'Letter',
       printBackground: true,
       landscape: true

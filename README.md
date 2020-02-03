@@ -19,7 +19,7 @@ SO THAT I can easily prepare reports for stakeholders
 
 ## How It Works
 
-* User runs 'npm install' for dependencies in the terminal
+* User runs 'npm install' for dependencies in the terminal [inquirer, fs, puppeteer, axios, util]
 * Initiates from the command 'node index.js' in the terminal
 * User is prompted for a color selection
 * User is prompted for GitHub username
