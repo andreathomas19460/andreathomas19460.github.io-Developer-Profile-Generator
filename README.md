@@ -27,7 +27,7 @@ SO THAT I can easily prepare reports for stakeholders
 
 ## Status 
 
-In progress...
+In progress! Not generating pdf
 
 ## Author
 
