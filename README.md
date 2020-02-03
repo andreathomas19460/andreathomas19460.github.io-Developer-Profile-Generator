@@ -25,6 +25,10 @@ SO THAT I can easily prepare reports for stakeholders
 * User is prompted for GitHub username
 * GitHub username input generates pdf that includes info from selected username
 
+## Link
+
+https://andreathomas19460.github.io/andreathomas19460.github.io-Developer-Profile-Generator/
+
 ## Status 
 
 In progress! Not generating pdf
