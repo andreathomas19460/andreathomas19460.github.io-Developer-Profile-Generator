@@ -4,7 +4,7 @@
   "description": "The command-line application dynamically generates a pdf profile from a GitHub username.",
   "main": "index.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fs": "0.0.1-security",
     "inquirer": "^7.0.4",
     "pdf-puppeteer": "^1.1.10",
